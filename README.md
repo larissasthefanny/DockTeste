@@ -1,6 +1,10 @@
 # DockTeste
 ###Teste Dock
 
+nota: Está faltando algumas coisas, pois eu fazia o desafio a noite, depois do trabalho. Então, o tempo acabou ficando curto. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Instruções para configuração do ambiente e manual do sistema consulte os arquivos pdf na raíz do diretório.
 
 INSTRUÇÕES:
